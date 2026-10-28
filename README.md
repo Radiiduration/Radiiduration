@@ -1,3 +1,5 @@
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/Radiiduration/badge.svg)](https://hub.xerj.org/contributors/Radiiduration)
+
 # 💫 About Me:
 Hi there 👋<br><br>I'm Rishi, a software developer in college, passionate about building AI-powered products and developer tools.<br><br>Currently building Foundry and Finova while exploring AI agents, full-stack development, cloud infrastructure, and scalable systems.<br><br>Interested in software architecture, application security, authentication, secrets management, secure system design, and developer experience.<br><br>Tech: Python • TypeScript • JavaScript • React • Next.js • Node.js • Azure • Docker • Git • SQL • AI/LLMs
 
